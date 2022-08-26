@@ -1,3 +1,3 @@
-import sreamlit
+import streamlit
 
-stramlit.title('HI')
+streamlit.title('HI')
